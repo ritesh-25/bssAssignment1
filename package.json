@@ -1,0 +1,15 @@
+{
+  "name": "bssassignment1",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000s\u0000s\u0000A\u0000s\u0000s\u0000i\u0000g\u0000n\u0000m\u0000e\u0000n\u0000t\u00001\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test speciFied\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^23.9.0"
+  }
+}
